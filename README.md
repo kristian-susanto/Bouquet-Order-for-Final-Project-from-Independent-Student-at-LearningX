@@ -73,7 +73,7 @@ bouquet-web-app/
 │
 ├── app.py
 ├── requirements.txt
-├── README.md
+└── README.md
 ```
 
 ## How to Run
