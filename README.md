@@ -123,7 +123,4 @@ The application will open in the browser automatically at the address `http://lo
 - Passwords are hashed using SHA-256
 - Authentication uses JWT stored in cookies
 - Admin routes are protected with role-based middleware (admin_required)
-- File uploads are handled securely using secure_filename
-
-## Contributor
-- [Kristian Susanto](https://github.com/kristian-susanto)
+- File uploads are handled securely using secure_filenam
